@@ -2,8 +2,8 @@
 
 ## Software developer | Data science | Cybersecurity enthusiast
 
-I enjoy solving complex problems, building secure systems and contributing to open-source projects.
-
+I enjoy working on innovative projects, enhancing digital security and leveraging AI for impactful solutions. With a strong foundation in web development and network security, I'm constantly learning and exploring new technologies.
+ 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [lydiahmanyeki@gmail.com](mailto:lydiahmanyeki@gmail.com)
 * 🧠  I'm learning backend development
